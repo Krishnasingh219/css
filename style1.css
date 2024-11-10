@@ -1,0 +1,61 @@
+#body1{
+    background-image: url('OLC.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+#navbar{
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+
+}
+#logo{
+    margin-left: 2px;
+    font-size: 25px;
+    color: #f08804;
+
+}
+input{
+    margin-left: 200px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+
+#content{
+     width:50%;
+    height: 100vh;
+    font-size: 30px;
+    color: white;
+
+
+}
+
+#para{
+    text-align: center;
+    margin-top:200px;
+}
+#text-image-container {
+    display: flex;
+    align-items: center;
+}
+
+#para {
+    margin-right: 20px; /* add some space between text and image */
+}
+
+#image {
+    width:200px; /* adjust the image width as needed */
+    height: auto;
+    margin-left: ;
+}

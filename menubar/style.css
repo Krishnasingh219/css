@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    background-color: black;
+    color:white;
+    list-style-type: none ;
+    padding:  ;
+
+}
+ul li{
+    display: inline-block;
+    padding:30px;
+    font-size: 40px;
+
+}
+ul li:hover{ 
+    background-color:rgb(255, 16, 136);
+    color: black;
+}
+#courses{
+    display: block;
+}
